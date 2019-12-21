@@ -31,7 +31,7 @@ https://github.com/meltmestnt/netlify-vue-calendar
 
 6) Tilda landing page copy. За основу взята основная страница https://tilda.cc/ru/ . В данном случае я постарался воссоздать основную страницу тильды с использованием webpack, bootstrap, sass. Страница соответственно адаптивна и отображается корректно на всех устройствах.
 Ссылка на проект:
-https://dazzling-poitras-a89f6f.netlify.com/
+https://quizzical-cray-d636e5.netlify.com/
 Ссылка на github репозиторий:
 https://github.com/meltmestnt/netlify-landing-page-tilda
 
